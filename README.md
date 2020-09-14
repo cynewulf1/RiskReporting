@@ -17,4 +17,3 @@ Possible Improvements: -
 * Input validation
 * Unit Tests
     - Apologies for the missing Unit tests, NUnit/Moq integration would have taken too much additional time.
-    - It should be noted I am fully familiar with unit testing in pure C# applications but am new to this for web development.
