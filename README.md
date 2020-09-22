@@ -15,5 +15,4 @@ Possible Improvements: -
 * Improved error handling
 * Additional logging
 * Input validation
-* Unit Tests
-    - Apologies for the missing Unit tests, NUnit/Moq integration would have taken too much additional time.
+* Add Unit Tests (NUnit/Moq)    
